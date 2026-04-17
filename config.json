@@ -58,6 +58,25 @@
           "type": "csv"
         }
       ]
+    },
+        {
+      "id": "new-task",
+      "title": "new-task",
+      "description": "Basics of data analysis: loading, exploring, and visualizing data in Python.",
+      "path": "assignments/data-analysis",
+      "dueDate": "2026-04-30",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        },
+        {
+          "name": "Sample Dataset",
+          "file": "data.csv",
+          "type": "csv"
+        }
+      ]
     }
   ]
 }
