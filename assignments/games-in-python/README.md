@@ -18,4 +18,8 @@ Seu jogo deve:
 - Encerrar quando a palavra for adivinhada ou as tentativas esgotarem
 - Exibir mensagens de vitória/derrota
 
+## 🎯 Objective 
+
+## 📝 Tasks 
+
 alterado
