@@ -17,3 +17,5 @@ Seu jogo deve:
 - Rastrear tentativas incorretas restantes
 - Encerrar quando a palavra for adivinhada ou as tentativas esgotarem
 - Exibir mensagens de vitória/derrota
+
+alterado
