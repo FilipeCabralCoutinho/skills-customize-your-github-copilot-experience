@@ -76,7 +76,7 @@ jobs:
         with:
           script: |
             const fs = require('fs');
-            const knownAssignments = ['python-basics', 'games-in-python', 'python-classes', 'data-analysis'];
+            const knownAssignments = ['python-basics', 'games-in-python', 'python-classes', 'data-analysis', 'new-task']; // Substitua pelos nomes dos diretórios de tarefas conhecidos
 
             const dirs = fs.readdirSync('assignments', { withFileTypes: true })
               .filter(dirent => dirent.isDirectory())
